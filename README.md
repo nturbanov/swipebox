@@ -1,6 +1,12 @@
 Swipebox
 ================================
 
+_This is simply a fork where I've made small fixes so it's easier to use with [Roots Sage](https://github.com/roots/sage) based projects directly via Bower.
+
+Currently the original project seems stalled so this is just to make things easier for me.
+
+There's a separate branch with jQuery 3 support._
+
 A touchable jQuery lightbox.
 
 [View project page](http://brutaldesign.github.com/swipebox)
